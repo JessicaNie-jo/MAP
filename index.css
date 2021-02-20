@@ -1,7 +1,7 @@
             body {
                 margin: 0;
                 padding: 0;
-                background: 背景.jpg;
+                background: url (背景.jpg);
             }
             
             .all {
